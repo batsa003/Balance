@@ -1,2 +1,2 @@
 # Balance
-https://github.com/batsa003/Balance
+https://devpost.com/software/balance-jxp2cv
